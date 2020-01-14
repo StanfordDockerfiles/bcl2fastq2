@@ -1,4 +1,4 @@
-FROM nathankw/centos6_essentials
+FROM nathankw/centos_essentials
 LABEL maintainer "Nathaniel Watson nathan.watson86@gmail.com"
 
 # Install bcl2fastq2 rpm for version 2.20.
